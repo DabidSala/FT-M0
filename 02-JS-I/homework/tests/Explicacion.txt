@@ -1,0 +1,16 @@
+° Variable: Es la forma en que podemos almacenar datos numericos o escritos dentro de una cajita virtual la
+cual podriamos usar en cualquier momento.
+
+° String: La forma que representamos letra o palabras sin que sean comandos, estas las podemos usar poniendo 
+comillas dentro de la palabra que queremos que aparezca, ejemplo: "Soy david y me gusta aprender programacion"
+
+° Funciones (Argumentos y Return): Argumentos es una cajita que vamos a usar para realizar operaciones sin afectar
+el resto de la funciones que ya hayamos hecho posteriormente.
+Y retur lo utilizamos para llamar el resultado de las operaciones que realizamos dentro de la cajita.
+
+° Declaraciones if: La declaracion if la usamos para comparar datos, donde si los datos cumplen cierto tipo de 
+caracteristicas se puede tomar desiciones frente a ello, por ejemplo escribir la orden de comparar si 1 es mayor
+que 2 y si es verdadero arrojar un resultado y si es falso dar otra respuesta.
+
+° Valores Booleanos (True y False): Son las opciones que tiene un comando el cual nos puede arrojar dos respuestas
+simples True (Verdader) o False (Falso), esto lo usamos cuando queremos una respuesta concreta.

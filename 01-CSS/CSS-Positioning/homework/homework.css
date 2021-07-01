@@ -19,7 +19,7 @@ archivo en cualquiera de estas carpetas, estás en el lugar equivocado.
 
 /* Acá va tu código */
 #ejercicioDos{
-    visibility: hidden;
+    display: none;
 }
 
 
@@ -29,9 +29,9 @@ archivo en cualquiera de estas carpetas, estás en el lugar equivocado.
 /* Acá va tu código */
 
 #ejercicioTres { 
-    margin-top: 100‒;
-    margin-top: 100px;
-    margin-left: 200px;
+    top: 100px;
+    position: relative;
+    left: 200px;
 }
 
 
@@ -53,7 +53,7 @@ archivo en cualquiera de estas carpetas, estás en el lugar equivocado.
 #ejercicioCinco{
     display: flex;
     align-items: center;
-    justify-content: space-between;
+    justify-content: space-around;
     
 }
 
@@ -73,7 +73,7 @@ archivo en cualquiera de estas carpetas, estás en el lugar equivocado.
     flex-direction: row-reverse;
     width: 800px;
     align-content: center;
-    justify-content: space-between;
+    justify-content: space-between;  
    
 }
 
