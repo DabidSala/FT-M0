@@ -77,29 +77,24 @@ function colors(color) {
   //En caso que el color recibido sea "orange", devuleve --> "This is orange"
   //Caso default: devuelve --> "Color not found"
   //Usar el statement Switch.
-  var resultadoColor = null;
+ 
   
 
   switch (color) {
       case "blue":
-        resultadoColor = ("This is blue");
-        break;
+        return  ("This is blue");
       case "red":
-        resultadoColor = ("This is red");
-        break;
+        return  ("This is red");
+        
       case "green":
-        resultadoColor = ("This is green");
-        break;
+        return  ("This is green");
+        
       case "orange":
-        resultadoColor = ("This is orange");
-        break;
+        return ("This is orange");
 
       default:
-        resultadoColor = ("Color not found");
-        break;
+        return ("Color not found");      
   }
-return resultadoColor ;
-
 }
 
 function esDiezOCinco(numero) {
@@ -133,7 +128,6 @@ function esEntero(numero) {
   // De lo contrario, devuelve "false"
   // Pista: Puedes resolver esto usando `Math.floor`
   // Tu código:
-  var esEnte = null;
 
   if(numero === Math.floor(numero)) {
     return true;

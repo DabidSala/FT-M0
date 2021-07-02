@@ -1,0 +1,9 @@
+°For:Es un blucle que tiene tres cajitas donde vamos a meter 
+cierto tipo de datos que queremos almacenar, los cuales utilizaremos
+para crear funciones que se repetiran hasta que se cumpla alguna orden
+que le demos.
+
+°&& y ||: Cuando usamos && la funcion lo que hace es revisar 2 cajitas las
+cuales tienen que ser iguales a la orden que le damos al computardor para que puedan
+ser aprovadas, mientras que usamos || lo que hacen es que si alguna de las dos cajas es
+igual a la orden que le dimos al pc se aprueva.
