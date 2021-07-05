@@ -1,0 +1,2 @@
+Arrays : Es una cajita donde se almacena la cantidad de cosas que queremos tener, la cual llamaremos conjunto.
+Estos los usaremos para que todos interactuen entre si por medio de comandos.
